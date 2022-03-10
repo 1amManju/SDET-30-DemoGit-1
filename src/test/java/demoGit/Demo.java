@@ -10,6 +10,12 @@ public class Demo {
 		System.out.println("User1 - First Commit");
 		
 		System.out.println("User 2 - First Commit");
+		
+		System.out.println("this will rise conflict");
+		
+		
+		
+		
 	}
 
 }
